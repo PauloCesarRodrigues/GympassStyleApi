@@ -16,7 +16,7 @@ GymPass style app.
 - [X] Deve ser possível cadastrar uma academia;
  
 ## RNs (Regras de negócio)
-z
+
 - [X] O usuário não deve poder se cadastrar com um e-mail duplicado;
 - [X] O usuário não pode fazer 2 check-ins no mesmo dia;
 - [X] O usuário não pode fazer check-in se não estiver perto (100m) da academia
